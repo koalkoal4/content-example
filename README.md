@@ -1,1 +1,1 @@
-# content-example
+# bolt-generated-project
